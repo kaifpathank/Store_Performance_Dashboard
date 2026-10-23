@@ -68,7 +68,7 @@ Create a folder named `images` in the repository and save the screenshots below.
 **Place here:** Immediately below this heading.  
 **Capture:** Full dashboard showing the title, KPI cards, main chart, and selected-store panel. Zoom the browser so the important text is readable. Hide unrelated browser tabs or personal information.
 
-![Dashboard overview]("C:\Users\kaif1\Pictures\Screenshots\Screenshot 2026-10-23 003142.png")
+![Store Performance Dashboard](./Screenshot%202026-10-23%20003142.png)
 
 ### 2. KPI Cards
 **File:** `images/dashboard-kpis.png`  
