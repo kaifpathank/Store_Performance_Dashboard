@@ -1,4 +1,4 @@
-# Store Performance Executive Suite Dashboard
+<img width="1205" height="695" alt="Screenshot 2026-10-23 003402" src="https://github.com/user-attachments/assets/cdbbe365-67f5-4cc7-a212-80c1beee79cc" /><img width="1205" height="695" alt="Screenshot 2026-10-23 003402" src="https://github.com/user-attachments/assets/70b1b591-895d-4387-bc55-c39e199c87ff" /><img width="1205" height="695" alt="Screenshot 2026-10-23 003402" src="https://github.com/user-attachments/assets/baf97916-a011-4f4a-b8e8-bc7389dedbc1" /># Store Performance Executive Suite Dashboard
 
 > **Project type:** Data Analytics Portfolio Project  
 > **Status:** Learning project — validate units, formulas, and source data before treating results as a business report.
@@ -82,7 +82,7 @@ Create a folder named `images` in the repository and save the screenshots below.
 **Place here:** Below this heading.  
 **Capture:** The traffic-versus-sales chart or Top/Bottom 10 view. If showing correlation, include the actual calculated coefficient only if you have verified it.
 
-![Dashboard KPI Cards](./Screenshot 2026-10-23%003402.png)
+![Dashboard KPI Cards](./store-comperison.png)
 
 ### 4. Selected Store Detail
 **File:** `images/store-610-detail.png`  
