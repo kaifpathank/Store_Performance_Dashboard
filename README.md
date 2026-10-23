@@ -90,6 +90,7 @@ Create a folder named `images` in the repository and save the screenshots below.
 **Capture:** Store #610 details. Avoid showing unsupported currency or area units.
 
 ![Selected Store Detail](./store-610-detail.png)
+
 ## Repository Structure
 ```text
 store-performance-dashboard/
