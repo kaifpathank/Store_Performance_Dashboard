@@ -75,7 +75,7 @@ Create a folder named `images` in the repository and save the screenshots below.
 **Place here:** Below this heading.  
 **Capture:** Crop showing the KPI cards clearly. Ensure unit labels are correct or neutral.
 
-![Dashboard KPI cards](Screenshot 2026-10-23%010535.png)
+![Dashboard KPI cards](./Screenshot 2026-10-23%010535.png)
 
 ### 3. Main Chart / Store Comparison
 **File:** `images/store-comparison.png`  
