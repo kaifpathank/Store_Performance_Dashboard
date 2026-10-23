@@ -1,5 +1,11 @@
 # Store Performance Executive Suite Dashboard
 
+## 📊 Live Dashboard
+
+"👉 Click here to view the Store Performance Dashboard on Google Sheets" (https://docs.google.com/spreadsheets/d/13JePZ7ycKbatPAhClz24oaIMsHLik-UP418yOhgGnjU/edit?usp=sharing)
+
+The dashboard is available online. Open the link to explore the store performance data and dashboard.
+
 > **Project type:** Data Analytics Portfolio Project  
 > **Status:** Learning project — validate units, formulas, and source data before treating results as a business report.
 
