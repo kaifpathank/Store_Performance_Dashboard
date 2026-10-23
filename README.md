@@ -64,11 +64,11 @@ These values are preliminary and should be independently recalculated from the s
 Create a folder named `images` in the repository and save the screenshots below. Use these exact relative paths in this README.
 
 ### 1. Full Dashboard
-**File:** `images/dashboard-overview.png`  
+**File:** `C:\Users\kaif1\Pictures\Screenshots\Screenshot 2026-10-23 003142.png`  
 **Place here:** Immediately below this heading.  
 **Capture:** Full dashboard showing the title, KPI cards, main chart, and selected-store panel. Zoom the browser so the important text is readable. Hide unrelated browser tabs or personal information.
 
-![Dashboard overview](images/dashboard-overview.png)
+![Dashboard overview]("C:\Users\kaif1\Pictures\Screenshots\Screenshot 2026-10-23 003142.png")
 
 ### 2. KPI Cards
 **File:** `images/dashboard-kpis.png`  
