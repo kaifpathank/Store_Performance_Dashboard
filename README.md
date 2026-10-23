@@ -64,7 +64,7 @@ These values are preliminary and should be independently recalculated from the s
 Create a folder named `images` in the repository and save the screenshots below. Use these exact relative paths in this README.
 
 ### 1. Full Dashboard
-**File:** `C:\Users\kaif1\Pictures\Screenshots\Screenshot 2026-10-23 003142.png`  
+**File:** `images/store-comparison.png`  
 **Place here:** Immediately below this heading.  
 **Capture:** Full dashboard showing the title, KPI cards, main chart, and selected-store panel. Zoom the browser so the important text is readable. Hide unrelated browser tabs or personal information.
 
@@ -75,7 +75,7 @@ Create a folder named `images` in the repository and save the screenshots below.
 **Place here:** Below this heading.  
 **Capture:** Crop showing the KPI cards clearly. Ensure unit labels are correct or neutral.
 
-![Dashboard KPI cards](images/dashboard-kpis.png)
+![Dashboard KPI cards](Screenshot 2026-10-23%010535.png)
 
 ### 3. Main Chart / Store Comparison
 **File:** `images/store-comparison.png`  
