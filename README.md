@@ -89,7 +89,7 @@ Create a folder named `images` in the repository and save the screenshots below.
 **Place here:** Below this heading.  
 **Capture:** Store #610 details. Avoid showing unsupported currency or area units.
 
-![Selected store detail](images/store-610-detail.png)
+![Selected store detail](./Screenshot%2026-10-23%003444.png)
 
 ## Repository Structure
 ```text
