@@ -64,7 +64,7 @@ These values are preliminary and should be independently recalculated from the s
 Create a folder named `images` in the repository and save the screenshots below. Use these exact relative paths in this README.
 
 ### 1. Full Dashboard
-**File:** `images/store-comparison.png`  
+**File:** `full dashboard`  
 **Place here:** Immediately below this heading.  
 **Capture:** Full dashboard showing the title, KPI cards, main chart, and selected-store panel. Zoom the browser so the important text is readable. Hide unrelated browser tabs or personal information.
 
