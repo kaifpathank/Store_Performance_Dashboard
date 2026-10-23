@@ -77,11 +77,12 @@ Create a folder named `images` in the repository and save the screenshots below.
 
 ![Dashboard KPI Cards](./Screenshot%202026-10-23%20010535.png)
 
-### 3. Main Chart / Store Comparison
+### 3. 
 **File:** `images/store-comparison.png`  
 **Place here:** Below this heading.  
 **Capture:** The traffic-versus-sales chart or Top/Bottom 10 view. If showing correlation, include the actual calculated coefficient only if you have verified it.
 
+![Store Comparison](./store-comparison.png)
 
 ### 4. Selected Store Detail
 **File:** `images/store-610-detail.png`  
