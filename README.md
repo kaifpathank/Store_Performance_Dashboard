@@ -36,8 +36,6 @@ The working sheet contains these fields:
 - Gemini AI as an assistant for exploration and dashboard support (AI-generated output must be verified)
 - Dashboard canvas used to present KPIs, comparisons, and a selected-store detail view
 
-> Only list tools you personally used. If you recreate the dashboard in Power BI, add Power BI here and include the `.pbix` file if you can share it.
-
 ## Key Results (from the current working analysis)
 - **Total recorded Store_Sales:** 53,298,770
 - **Average Store_Sales:** approximately 59,352.75
@@ -49,7 +47,6 @@ The working sheet contains these fields:
 - **Average Store_Area:** approximately 1,485.33
 - **Highest-sales record identified:** Store ID 610, with recorded sales of 116,320
 
-These values are preliminary and should be independently recalculated from the source file before publication. Do not add a currency symbol unless the source confirms the currency.
 
 ## Insights and Interpretation
 1. **Store #610 is the highest-sales record in the current analysis.** Its recorded sales are 116,320. This identifies a record worth studying, but it does not explain why sales are high.
@@ -66,8 +63,7 @@ These values are preliminary and should be independently recalculated from the s
 - Verify the row count and all summary values directly from the original CSV.
 - Document that Gemini was used for assistance if you used it, and manually verify the results.
 
-## Screenshots to Add
-Create a folder named `images` in the repository and save the screenshots below. Use these exact relative paths in this README.
+
 
 ### 1. Full Dashboard
 **File:** `images/dashboard-overview.png`  
@@ -102,7 +98,7 @@ Create a folder named `images` in the repository and save the screenshots below.
 store-performance-dashboard/
 ├── README.md
 ├── data/
-│   └── Stores.csv                 # Include only if redistribution is permitted
+│   └── Stores.csv                
 ├── images/
 │   ├── dashboard-overview.png
 │   ├── dashboard-kpis.png
@@ -111,14 +107,6 @@ store-performance-dashboard/
 └── report/
     └── Store_Performance_Project_Report.pdf
 ```
-
-## How to Reproduce
-1. Download the dataset from its verified original source.
-2. Inspect column names, data types, missing values, duplicates, and store ID uniqueness.
-3. Recalculate totals, averages, minimums, and maximums.
-4. Build the charts and dashboard from the checked data.
-5. Compare dashboard values against the calculations.
-6. Add screenshots and the final report to the repository.
 
 ## Limitations
 - The source and units must be documented before publishing.
