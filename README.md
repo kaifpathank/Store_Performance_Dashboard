@@ -1,5 +1,3 @@
-<img width="1205" height="695" alt="Screenshot 2026-10-23 003402" src="https://github.com/user-attachments/assets/cdbbe365-67f5-4cc7-a212-80c1beee79cc" /><img width="1205" height="695" alt="Screenshot 2026-10-23 003402" src="https://github.com/user-attachments/assets/70b1b591-895d-4387-bc55-c39e199c87ff" /><img width="1205" height="695" alt="Screenshot 2026-10-23 003402" src="https://github.com/user-attachments/assets/baf97916-a011-4f4a-b8e8-bc7389dedbc1" /># Store Performance Executive Suite Dashboard
-
 > **Project type:** Data Analytics Portfolio Project  
 > **Status:** Learning project — validate units, formulas, and source data before treating results as a business report.
 
