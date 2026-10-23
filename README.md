@@ -68,28 +68,28 @@ Create a folder named `images` in the repository and save the screenshots below.
 **Place here:** Immediately below this heading.  
 **Capture:** Full dashboard showing the title, KPI cards, main chart, and selected-store panel. Zoom the browser so the important text is readable. Hide unrelated browser tabs or personal information.
 
-![Dashboard overview](images/dashboard-overview.png)
+![Store Performance Dashboard](./Screenshot%202026-10-23%20003142.png)
 
 ### 2. KPI Cards
 **File:** `images/dashboard-kpis.png`  
 **Place here:** Below this heading.  
 **Capture:** Crop showing the KPI cards clearly. Ensure unit labels are correct or neutral.
 
-![Dashboard KPI cards](images/dashboard-kpis.png)
+![Dashboard KPI Cards](./Screenshot%202026-10-23%20010535.png)
 
 ### 3. Main Chart / Store Comparison
 **File:** `images/store-comparison.png`  
 **Place here:** Below this heading.  
 **Capture:** The traffic-versus-sales chart or Top/Bottom 10 view. If showing correlation, include the actual calculated coefficient only if you have verified it.
 
-![Store comparison](images/store-comparison.png)
+![Store Comparison](Screenshot%202026-10-23%20003402.png)
 
 ### 4. Selected Store Detail
 **File:** `images/store-610-detail.png`  
 **Place here:** Below this heading.  
 **Capture:** Store #610 details. Avoid showing unsupported currency or area units.
 
-![Selected store detail](images/store-610-detail.png)
+![Selected Store Detail](Screenshot%202026-10-23%20003444.png)
 
 ## Repository Structure
 ```text
